@@ -1,0 +1,10 @@
+<html>
+    <head>
+        <title> Import example of sass</title>
+   
+    </head>
+
+    <body>
+        <h1>Welcome to cloud</h1>
+    </body>
+</html>
